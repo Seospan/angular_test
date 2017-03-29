@@ -10,6 +10,8 @@ var core_1 = require("@angular/core");
 var TestComponent = (function () {
     function TestComponent() {
     }
+    TestComponent.prototype.ngOnInit = function () {
+    };
     return TestComponent;
 }());
 TestComponent = __decorate([

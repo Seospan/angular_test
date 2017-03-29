@@ -9,5 +9,7 @@ import { UserService } from '../_services/index';
 })
 
 export class TestComponent implements OnInit {
-    
+  ngOnInit() {
+      
+  }
 }
